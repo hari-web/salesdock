@@ -1,24 +1,24 @@
-#Project Setup
+# Project Setup
 
 
-##System Requirements
+## System Requirements
 
 - PHP 7.4
 - mysql 5.7 or later
 - Laravel Version : 8
 
-##Clone the project
+## Clone the project
 
     cd \var\www\html
     git clone https://github.com/hari-web/salesdock.git salesdoc
     cd salesdoc
 
 
-##Install composer dependencies
+## Install composer dependencies
 
     composer install
 
-##.env setup 
+## .env setup 
 
 Run the below commands
 
